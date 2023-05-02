@@ -1,5 +1,5 @@
 # Deno-Blog
-# Personnal blog creating with Next.Js
+# Personnal blog created with Next.Js
 
 ### This blog was created using the new "bêta" version of Next.Js.
 
