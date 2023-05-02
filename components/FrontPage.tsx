@@ -14,7 +14,7 @@ const FrontPage = () => {
     >
       <div className='absolute w-full h-full bg-gray-900 bg-opacity-50'></div>
       <div className='absolute top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center'>
-        <h1 className='text-4xl mt-28 sm:text-6xl font-bold text-white mb-2 md:mt-20'>
+        <h1 className='text-4xl mt-36 sm:text-6xl font-bold text-white mb-2 md:mt-20'>
           Welcome to My Blog
         </h1>
         <h3 className='text-lg sm:text-xl mb-2 text-white mt-5'>
